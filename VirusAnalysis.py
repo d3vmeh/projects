@@ -1,3 +1,9 @@
+'''This program was Made by Dēv Mehra Age 13 in March 2020
+The dataset is from https://github.com/ieee8023/covid-chestxray-dataset
+
+'''
+
+
 import numpy as np 
 import pandas as pd 
 import tensorflow.compat.v1 as tf
